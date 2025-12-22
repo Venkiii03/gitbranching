@@ -6,7 +6,7 @@ This screenshot shows the Learn Git Branching tutorial demonstrating basic Git c
 
 **Commands Used** <br>
 git commit <br>
-git commit <br>
+git commit <br> <br>
 <img width="1919" height="925" alt="Screenshot 2025-12-22 214448" src="https://github.com/user-attachments/assets/314cadd4-00da-4edb-8807-b395d3545bf0" />
 
 
@@ -14,7 +14,7 @@ git commit <br>
 This screenshot demonstrates creating and switching to a new branch in Git. A new branch named bugFix is created from the main branch and checked out, showing both branches pointing to the same commit (c1) with bugFix as the active branch.
 
 **Commands Used** <br>
-git checkout -b bugFix <br>
+git checkout -b bugFix <br> <br>
 <img width="1918" height="921" alt="Screenshot 2025-12-22 214641" src="https://github.com/user-attachments/assets/8775bc57-b427-472a-be26-2f92be857993" />
 
 
@@ -26,7 +26,7 @@ git checkout -b bugFix <br>
 git commit <br>
 git checkout main <br>
 git commit <br>
-git merge bugFix <br>
+git merge bugFix <br> <br>
 <img width="1919" height="930" alt="Screenshot 2025-12-22 215235" src="https://github.com/user-attachments/assets/240c2896-a56e-48ec-a015-3da10042b5e7" />
 
 
@@ -39,5 +39,5 @@ git commit <br>
 git checkout main <br>
 git commit <br>
 git checkout bugFix <br>
-git rebase main <br>
+git rebase main <br> <br>
 <img width="1917" height="922" alt="Screenshot 2025-12-22 215613" src="https://github.com/user-attachments/assets/f9709464-42a7-40fe-913b-f5d5ddfe10a4" />
