@@ -1,2 +1,0 @@
-# gitbranching
-Learning git branching 
