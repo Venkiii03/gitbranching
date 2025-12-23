@@ -1,7 +1,7 @@
 # gitbranching
 Learning git branching 
 
-**Level One - Git Commits**
+**Level One - Git Commits** </n>
 This screenshot shows the Learn Git Branching tutorial demonstrating basic Git commits on the main branch. A linear commit history (c0 → c3) is created, illustrating how each git commit advances the branch pointer.
 
 **Commands Used** <br>
